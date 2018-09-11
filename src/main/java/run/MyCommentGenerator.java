@@ -1,4 +1,4 @@
-package com.run;
+package run;
 
 import org.mybatis.generator.api.IntrospectedColumn;
 import org.mybatis.generator.api.IntrospectedTable;
