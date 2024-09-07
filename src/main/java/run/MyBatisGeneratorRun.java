@@ -23,7 +23,7 @@ public class MyBatisGeneratorRun {
         System.out.println("生成文件根目录:"+System.getProperty("user.dir"));
         System.out.println("生成完成.......");
 
-        System.out.println("提交第一次");
+        System.out.println("提交第二次");
 
 
 
