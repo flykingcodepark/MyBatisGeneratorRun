@@ -27,6 +27,10 @@ public class MyBatisGeneratorRun {
 
 
 
+
+
+
+
     }
 
     public void generator() throws Exception{
