@@ -22,6 +22,11 @@ public class MyBatisGeneratorRun {
         app.generator();
         System.out.println("生成文件根目录:"+System.getProperty("user.dir"));
         System.out.println("生成完成.......");
+
+
+
+
+
     }
 
     public void generator() throws Exception{
